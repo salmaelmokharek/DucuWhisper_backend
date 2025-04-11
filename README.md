@@ -114,19 +114,3 @@ The backend is deployed on Vercel at: [ducu-whisper-backend.vercel.app](https://
 This backend is designed to work with the DocuWhisper frontend:
 [https://github.com/yourusername/docuwhisper-frontend](https://github.com/yourusername/docuwhisper-frontend)
 
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-
-Salma El Mokharek - salma.pro95@gmail.com
-Project Link: https://github.com/salmaelmokharek/DucuWhisper_backend 
